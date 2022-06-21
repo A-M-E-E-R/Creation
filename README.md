@@ -6,9 +6,14 @@ Shows a new webpage in the brwoser, displaying the current page.
 Returns an Image object that encapsulatethe image specified by the URL.
 
 
----------------MODULE-5---------------
-______Multithreaded Programming______
+------------------------------
+
+## MODULE-5 ##
+
+# ______Multithreaded Programming______ #
+
 Java is a multithreaded programming language which means we can develop multithreaded program using JaAVA.A Multithreaded program contains two or more parts the\at can run concurrently and each pasr can handle a different task at the same time. Multithreading enables to write in away where multiple activities can proceed concurrently in the same program.
+
 ___Advantages___
 1. It doesn't block the user because threads are independent and we can perform multiple operations at same time.
 2. We can perform many operations together, so it saves time.

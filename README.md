@@ -1,7 +1,9 @@
  (1) Void show status (string Message)
 Shows the message in the status line of the browser.
+
 (2)Void show Document (URL)
 Shows a new webpage in the brwoser, displaying the current page.
+
 (3)Image getimage (URL)
 Returns an Image object that encapsulatethe image specified by the URL.
 
